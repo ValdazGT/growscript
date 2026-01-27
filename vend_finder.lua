@@ -134,4 +134,5 @@ end
       FindPath(vendfinder.x, vendfinder.y)
     end
   end
+
 end, "onValue") 
